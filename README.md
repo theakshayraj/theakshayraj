@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:theakshayraj@outlook.com)](mailto:theakshayraj@outlook.com) 
 - ⚡     Studying is my drug.
      <br>But thank god I say no to drugs.<div align='center'>
-        ![](![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
+        ![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
 
 ###    Watch my contribution graph get eaten by the snake 🐍
 

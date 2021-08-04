@@ -9,12 +9,17 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:theakshayraj@outlook.com)](mailto:theakshayraj@outlook.com) 
 
 ➙ **Cloud:** AWS, GCP <br>
-➙ **Core Skills:** Linux, Terraform, Packer, Docker, Ansible, Kubernetes, Jenkins  <br>
-- ⚡     Studying is my addiction.
-     <br>But Thank God, I say no to any addiction.<div align='center'>
+➙ **Provisioning:**             Terraform <br>
+➙ **Configuration management:** Ansible <br>
+➙ **Version Control & SCM:**    Git & GitHub <br>
+➙ **CI & CD:**                  Jenkins <br>
+➙ **Containerization tool:**    Docker <br>
+➙ **Orchestration tool:**       Kubernetes <br>
+➙ **Code Quality:**             SonarQube <br>
+➙ **Other Core Skills:**        Linux, Agile, Python<br>
+- ⚡   One Life, Code it. <div align='justify'>
 ![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
- 
-
+           
 ###    Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->

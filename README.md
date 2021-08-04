@@ -7,11 +7,12 @@ Here are some ideas to get you started:
 - 🌱 Currently training on Cloud & DevOps specialization.
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:theakshayraj@outlook.com)](mailto:theakshayraj@outlook.com) 
+
+➙ **Cloud:** AWS, GCP <br>
+➙ **Core Skills:** Linux, Terraform, Packer, Docker, Ansible, Kubernetes, Jenkins  <br>
 - ⚡     Studying is my addiction.
      <br>But Thank God, I say no to any addiction.<div align='center'>
 ![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
-➙ **Cloud:** AWS, GCP <br>
-➙ **Core Skills:** Linux, Terraform, Packer, Docker, Ansible, Kubernetes, Jenkins  <br>
  
 
 ###    Watch my contribution graph get eaten by the snake 🐍

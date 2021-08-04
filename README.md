@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=blux&hide_border=true)](https://git.io/streak-stats)    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=blux&hide_border=true)](https://git.io/streak-stats)    
 <p align="center">
   <a href="https://dev.to/theakshayraj">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akshay Raj's DEV Profile" height="30" width="30">

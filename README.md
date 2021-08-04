@@ -17,9 +17,7 @@ Here are some ideas to get you started:
      
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats) -->    
-        
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
      
 <p align="center">
   <a href="https://dev.to/theakshayraj">
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
     
 </p>
 <br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **theakshayraj/theakshayraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 Looking for intern opportunities

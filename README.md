@@ -11,7 +11,8 @@ Here are some ideas to get you started:
      <br>But Thank God, I say no to any addiction.
 ➙ **Cloud:** AWS, GCP <br>
 ➙ **Core Skills:** Linux, Terraform, Packer, Docker, Ansible, Kubernetes, Jenkins  <br>
-     <div align='center'>
+ - ⚡     Studying is my addiction.
+     <br>But Thank God, I say no to any addiction.<div align='center'>
         ![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
 
 ###    Watch my contribution graph get eaten by the snake 🐍

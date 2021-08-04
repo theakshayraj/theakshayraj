@@ -3,6 +3,11 @@
 Here are some ideas to get you started:
 <img align="right" alt="GIF" height="300px" src='https://github.com/theakshayraj/Cool-Readme-ideas/blob/68f1ef2bf6a85ea818233d33b6a5085d15249940/data/octocat/daftpunktocat-guy.gif' />
 - 🔭 I'm a fourth year engineering student at DIT, Dehradun. I ❤️ Systems. I exhibit an eager to learn new things and adapt. Being a technology-enthusiast, I love to contribute on different blogging platforms & explore new technologies.
+- 💻 Believe in Technologies and Grow with it.
+
+➙ **Cloud:** AWS, GCP <br>
+➙ **Core Skills:** Linux, Terraform, Packer, Docker, Ansible, Kubernetes, Jenkins  <br>
+
 - 🌱 Currently training on Cloud & DevOps specialization.
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:theakshayraj@outlook.com)](mailto:theakshayraj@outlook.com) 

@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![theakshayraj snake gif](https://github.com/theakshayraj/theakshayraj/blob/b21604aba904e2dea5d8e6f7de8d145f19e331b6/github-contribution-grid-snake.svg)      
      
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats)
-     
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats) -->    
         
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats)
      
 <p align="center">
   <a href="https://dev.to/theakshayraj">

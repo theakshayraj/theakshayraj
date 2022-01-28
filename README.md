@@ -1,4 +1,4 @@
-### Hi there , I'm Akshay Raj 👋 
+### Hi there , I'm Akshay Raj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 <img align="right" alt="GIF" height="300px" src='https://github.com/theakshayraj/Cool-Readme-ideas/blob/68f1ef2bf6a85ea818233d33b6a5085d15249940/data/octocat/daftpunktocat-guy.gif' />

@@ -134,7 +134,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theakshayraj&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 ![Snake animation](https://github.com/theakshayraj/theakshayraj/blob/output/github-contribution-grid-snake.svg)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🦖 Keep Coding!

@@ -48,7 +48,7 @@
 <div style="display: flex;">
   <!-- Dynamic Typing Effect -->
   <div style="flex: 60%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Senior+SRE+Engineer;%24+uptime+%3E+3%2B+Yrs+Prod+Infra+Expert;%24+pwd+%3E+%2Fhome%2Facko%2Fdevops;%24+top+%3E+Infrastructure+Optimization;%24+netstat+%3E+Cloud+Native+Architect;%24+systemctl+status+career;Active%3A+DevOps+Engineer+II+%40+Acko;Skills_Matrix%3A+Loading...;AWS+%7C+K8s+%7C+Terraform+%7C+CI%2FCD;Mission_Critical%3A+High+Availability;Security_Clearance%3A+Level+Alpha" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Senior+SRE+Engineer;%24+uptime+%3E+3%2B+Yrs+Prod+Infra+Expert;%24+pwd+%3E+%2Fwork%2FUltrahuman%2Fdevops;%24+top+%3E+Infrastructure+Optimization;%24+netstat+%3E+Cloud+Native+Architect;%24+systemctl+status+career;Active%3A+DevOps+Engineer+%40+Ultrahuman;Skills_Matrix%3A+Loading...;AWS+%7C+K8s+%7C+Terraform+%7C+CI%2FCD;Mission_Critical%3A+High+Availability;Security_Clearance%3A+Level+Alpha" alt="Typing SVG"/>
   </div>
   
   <!-- Animated Developer GIF -->

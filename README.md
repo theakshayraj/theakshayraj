@@ -51,7 +51,7 @@
 <div style="display: flex;">
   <!-- Dynamic Typing Effect -->
   <div style="flex: 60%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Infrastructure+Engineer;%24+uptime+%3E+4%2B+Yrs+Prod+Infra+Expert;%24+pwd+%3E+%2Fwork%2FUltrahuman%2Fdevops;%24+top+%3E+Cost+Optimization+%7C+Platform+Eng;%24+netstat+%3E+Cloud+Native+Architect;%24+systemctl+status+career;Active%3A+Infra+Engineer+%40+Ultrahuman;Previous%3A+DevOps+Engineer+%40+Acko;Skills_Matrix%3A+Loading...;AWS+%7C+K8s+%7C+Kafka+%7C+Go+%7C+Terraform;Shipped%3A+Event+Gateway+%7C+GitOps+CICD;Building%3A+Billdar+%7C+GPUC+%7C+China+Infra;Mission_Critical%3A+Zero+Downtime+Always" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Site+Reliability+Engineer;%24+uptime+%3E+4%2B+Yrs+Prod+Infra+Expert;%24+pwd+%3E+%2Fwork%2FUltrahuman%2Fdevops;%24+top+%3E+Reliability+%7C+Toil+Elimination;%24+netstat+%3E+Distributed+Systems+%40+Scale;%24+systemctl+status+career;Active%3A+SRE+%40+Ultrahuman;Previous%3A+SRE+%40+Acko;Skills_Matrix%3A+Loading...;Go+%7C+K8s+%7C+Kafka+%7C+Terraform+%7C+AWS;Shipped%3A+Event+Gateway+%7C+GitOps+CICD;Building%3A+Cost+Intelligence+%7C+GPU+Platform;Mission%3A+Automate+Toil.+Preserve+SLOs." alt="Typing SVG"/>
   </div>
 
   <!-- Animated Developer GIF -->
@@ -66,16 +66,16 @@
 
 | Project | What | Impact |
 |---------|------|--------|
-| **Event Gateway** | Replaced Mixpanel with self-hosted Kafka + OpenSearch pipeline | Eliminated SaaS costs, 100% traffic migrated, zero downtime |
-| **GitOps CI/CD (uh-cicd)** | Org-wide ArgoCD + Helm one-click deployment platform | Standardized releases, replaced manual deploys across all teams |
-| **LB Consolidation** | Migrated ingress-nginx to ALB, consolidated load balancers | 50% reduction in LB count and cost |
-| **China Infra** | End-to-end AWS China region — EKS, networking, monitoring | Geographic expansion with full observability |
-| **Metabase Migration** | Enterprise to Community + DuckDB plugin integration | Cost savings with improved analytical query performance |
-| **Headlamp** | K8s observability dashboard deployed org-wide | Devs self-serve logs/cluster state, reduced support tickets |
-| **Billdar** 🔨 | Full-stack AWS cost intelligence dashboard (Go+React+ClickHouse) | Service-level breakdowns, K8s attribution, optimization engine |
+| **Event Gateway** | Replaced Mixpanel with self-hosted Kafka + OpenSearch pipeline | 100% traffic migrated with SLO preservation, zero data loss |
+| **GitOps CI/CD** | Org-wide ArgoCD + Helm one-click deployment platform | Eliminated deployment toil across all engineering teams |
+| **Alerting & Incident Mgmt** | Tuned production alerting, resolved 10+ incidents, enabled audit logs | Reduced alert noise while maintaining SLO coverage |
+| **LB Consolidation** | Migrated ingress-nginx to ALB, consolidated load balancers | 50% reduction in operational surface area and cost |
+| **China Infra** | End-to-end AWS China region — EKS, networking, monitoring | Geographic expansion with full observability stack |
+| **Headlamp** | K8s observability dashboard deployed org-wide | Eliminated a class of support requests — devs self-serve |
+| **Billdar** 🔨 | Full-stack cost intelligence platform (Go+React+ClickHouse) | Service-level attribution, K8s cost breakdowns, optimization engine |
 | **GPUC** 🔨 | Unified GPU provisioning API — AWS, Lambda Labs, Vast.ai | Single interface for multi-cloud GPU cost comparison |
 
-*Previous @ **Acko**: Built Life Insurance business infra from scratch. Managed Kong & Linkerd. Led cost optimization.*
+*Previous @ **Acko**: Built Life Insurance infra from scratch. Managed Kong & Linkerd service mesh. Led cost optimization and SLO implementation.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -150,7 +150,7 @@
 <div align="center">
   <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Chrome Dino" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=Infrastructure+Engineer;Cloud+Cost+Optimizer;Platform+Builder;Shipping+Since+2022" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=Site+Reliability+Engineer;Platform+Builder;Systems+Thinker;Automate+Everything" alt="Typing SVG" />
 
   <img src="https://komarev.com/ghpvc/?username=theakshayraj&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>

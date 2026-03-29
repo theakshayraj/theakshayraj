@@ -51,7 +51,7 @@
 <div style="display: flex;">
   <!-- Dynamic Typing Effect -->
   <div style="flex: 60%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Site+Reliability+Engineer;%24+uptime+%3E+4%2B+Yrs+Prod+Infra+Expert;%24+pwd+%3E+%2Fwork%2FUltrahuman%2Fdevops;%24+top+%3E+Reliability+%7C+Toil+Elimination;%24+netstat+%3E+Distributed+Systems+%40+Scale;%24+systemctl+status+career;Active%3A+SRE+%40+Ultrahuman;Previous%3A+SRE+%40+Acko;Skills_Matrix%3A+Loading...;Go+%7C+K8s+%7C+Kafka+%7C+Terraform+%7C+AWS;Shipped%3A+Event+Gateway+%7C+GitOps+CICD;Building%3A+Cost+Intelligence+%7C+GPU+Platform;Mission%3A+Automate+Toil.+Preserve+SLOs." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Senior+DevOps+Engineer;%24+uptime+%3E+4%2B+Yrs+Prod+Infra+Expert;%24+pwd+%3E+%2Fwork%2FUltrahuman%2Fdevops;%24+top+%3E+Reliability+%7C+Toil+Elimination;%24+netstat+%3E+Distributed+Systems+%40+Scale;%24+systemctl+status+career;Active%3A+Sr.+DevOps+%40+Ultrahuman+(Jul+2025);Previous%3A+Sr.+DevOps+%40+Acko+(Jan+2022-Jul+2025);Skills_Matrix%3A+Loading...;Go+%7C+K8s+%7C+Kafka+%7C+Terraform+%7C+AWS;Shipped%3A+Event+Gateway+%7C+GitOps+CICD;Building%3A+Cost+Intelligence+%7C+GPU+Platform;Mission%3A+Automate+Toil.+Preserve+SLOs." alt="Typing SVG"/>
   </div>
 
   <!-- Animated Developer GIF -->
@@ -75,7 +75,7 @@
 | **Billdar** 🔨 | Full-stack cost intelligence platform (Go+React+ClickHouse) | Service-level attribution, K8s cost breakdowns, optimization engine |
 | **GPUC** 🔨 | Unified GPU provisioning API — AWS, Lambda Labs, Vast.ai | Single interface for multi-cloud GPU cost comparison |
 
-*Previous @ **Acko**: Built Life Insurance infra from scratch. Managed Kong & Linkerd service mesh. Led cost optimization and SLO implementation.*
+*Previous @ **Acko** (Jan 2022 — Jul 2025): Built Life Insurance infra from scratch. Managed Kong & Linkerd service mesh. Led cost optimization and SLO implementation.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -150,7 +150,7 @@
 <div align="center">
   <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Chrome Dino" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=Site+Reliability+Engineer;Platform+Builder;Systems+Thinker;Automate+Everything" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=Senior+DevOps+Engineer;Platform+Builder;Systems+Thinker;Automate+Everything" alt="Typing SVG" />
 
   <img src="https://komarev.com/ghpvc/?username=theakshayraj&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>

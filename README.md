@@ -12,8 +12,8 @@
 
   <!-- Social Media Links -->
   <div align="left">
-    <a href="https://rajakshay.in" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_rajakshay.in-0078D4?style=for-the-badge&logoColor=white&color=071A2C" alt="Website"/>
+    <a href="https://portfolio.rajakshay.in" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_portfolio.rajakshay.in-0078D4?style=for-the-badge&logoColor=white&color=071A2C" alt="Website"/>
     </a>
     <a href="mailto:theakshayraj@outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/📧mail_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=071A2C" alt="Email"/>

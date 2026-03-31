@@ -51,7 +51,7 @@
 <div style="display: flex;">
   <!-- Dynamic Typing Effect -->
   <div style="flex: 60%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Senior+DevOps+Engineer;%24+uptime+%3E+4%2B+Yrs+Prod+Infra+Expert;%24+pwd+%3E+%2Fwork%2FUltrahuman%2Fdevops;%24+top+%3E+Reliability+%7C+Toil+Elimination;%24+netstat+%3E+Distributed+Systems+%40+Scale;%24+systemctl+status+career;Active%3A+Sr.+DevOps+%40+Ultrahuman+(Jul+2025);Previous%3A+Sr.+DevOps+%40+Acko+(Jan+2022-Jul+2025);Skills_Matrix%3A+Loading...;Go+%7C+K8s+%7C+Kafka+%7C+Terraform+%7C+AWS;Shipped%3A+Event+Gateway+%7C+GitOps+CICD;Building%3A+Cost+Intelligence+%7C+GPU+Platform;Mission%3A+Automate+Toil.+Preserve+SLOs." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&weight=600&size=26&duration=1000&pause=200&color=0CFF00&background=000000&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=420&lines=Initializing+Profile...;%24+whoami+%3E+Senior+DevOps+%2F+SRE;%24+uptime+%3E+4%2B+Yrs+Production+Distributed+Systems;%24+pwd+%3E+%2Fwork%2FUltrahuman%2Finfra;%24+top+%3E+Reliability+%7C+Toil+Elimination+%7C+SLOs;%24+netstat+%3E+Distributed+Systems+%40+Scale;%24+systemctl+status+career;Active%3A+Sr.+DevOps+%40+Ultrahuman+(Jul+2025);Previous%3A+Sr.+DevOps+%40+Acko+(Jan+2022-Jul+2025);Languages%3A+Go+%7C+Python+%7C+TypeScript+%7C+SQL;Infra%3A+K8s+%7C+Kafka+%7C+Terraform+%7C+AWS;Shipped%3A+Event+Pipeline+%7C+Developer+Platform;Building%3A+Cost+Intelligence+%7C+GPU+Provisioning;Mission%3A+Automate+Toil.+Preserve+SLOs." alt="Typing SVG"/>
   </div>
 
   <!-- Animated Developer GIF -->
@@ -66,16 +66,18 @@
 
 | Project | What | Impact |
 |---------|------|--------|
-| **Event Gateway** | Replaced Mixpanel with self-hosted Kafka + OpenSearch pipeline | 100% traffic migrated with SLO preservation, zero data loss |
-| **GitOps CI/CD** | Org-wide ArgoCD + Helm one-click deployment platform | Eliminated deployment toil across all engineering teams |
-| **Alerting & Incident Mgmt** | Tuned production alerting, resolved 10+ incidents, enabled audit logs | Reduced alert noise while maintaining SLO coverage |
-| **LB Consolidation** | Migrated ingress-nginx to ALB, consolidated load balancers | 50% reduction in operational surface area and cost |
-| **China Infra** | End-to-end AWS China region — EKS, networking, monitoring | Geographic expansion with full observability stack |
-| **Headlamp** | K8s observability dashboard deployed org-wide | Eliminated a class of support requests — devs self-serve |
-| **Billdar** 🔨 | Full-stack cost intelligence platform (Go+React+ClickHouse) | Service-level attribution, K8s cost breakdowns, optimization engine |
-| **GPUC** 🔨 | Unified GPU provisioning API — AWS, Lambda Labs, Vast.ai | Single interface for multi-cloud GPU cost comparison |
+| **Event Pipeline** | Designed self-hosted Kafka + OpenSearch replacing Mixpanel SaaS | System design → phased migration (0%→100%) → SLO preserved, zero data loss |
+| **Developer Platform** | Org-wide one-click service onboarding (ArgoCD + Helm) | Measured deployment toil, then automated it away across all teams |
+| **Incident Mgmt & SLOs** | SLO-driven alerting, 1200+ incidents resolved with RCA | Calibrated thresholds, preventive automation, blameless postmortems |
+| **LB Consolidation** | Designed migration from ingress-nginx to ALB | 50% reduction in operational surface area, zero-disruption cutover |
+| **China Region** | End-to-end AWS China — EKS, VPC, monitoring, compliance | Cross-region distributed system design |
+| **Headlamp** | K8s observability deployed org-wide | Eliminated a class of support requests — devs self-serve |
+| **Billdar** 🔨 | Full-stack cost intelligence platform (Go+React+ClickHouse) | System design + full-stack engineering |
+| **GPUC** 🔨 | Unified GPU provisioning API — concurrent multi-cloud fetching | Go, REST API, distributed provider abstraction |
 
-*Previous @ **Acko** (Jan 2022 — Jul 2025): Built Life Insurance infra from scratch. Managed Kong & Linkerd service mesh. Led cost optimization and SLO implementation.*
+**@ Ultrahuman** (Jul 2025 — Present): Owning end-to-end infrastructure. Go & Python for reliability automation. Multi-region AWS including China.
+
+**@ Acko** (Jan 2022 — Jul 2025): Built Life Insurance infra from zero. 99.9% uptime SLO. Linkerd service mesh (mTLS, circuit breaking). Kong API Gateway. Graviton migration. Terraform + Ansible automation. Structured on-call with blameless postmortems.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -88,44 +90,42 @@
 
 ## 💻 Tech Stack
 
-### Cloud & Infrastructure
+### Languages (I write production code, not just YAML)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Distributed Systems & Infrastructure
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linkerd](https://img.shields.io/badge/Linkerd-2BEDA7?style=for-the-badge&logo=linkerd&logoColor=black)
+![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
 
-### CI/CD & Automation
+### IaC, GitOps & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Streaming & Databases
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+### Observability & SRE
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-### Service Mesh & API Gateway
-![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
-![Linkerd](https://img.shields.io/badge/Linkerd-2BEDA7?style=for-the-badge&logo=linkerd&logoColor=black)
-
-### Languages & Tools
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -150,7 +150,7 @@
 <div align="center">
   <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Chrome Dino" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=Senior+DevOps+Engineer;Platform+Builder;Systems+Thinker;Automate+Everything" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=Senior+DevOps+%2F+SRE;Distributed+Systems+Builder;Go+%7C+Python+%7C+Kubernetes;Automate+Toil.+Preserve+SLOs." alt="Typing SVG" />
 
   <img src="https://komarev.com/ghpvc/?username=theakshayraj&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>

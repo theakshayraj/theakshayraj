@@ -72,6 +72,7 @@
 | **LB Consolidation** | Designed migration from ingress-nginx to ALB | 50% reduction in operational surface area, zero-disruption cutover |
 | **China Region** | End-to-end AWS China — EKS, VPC, monitoring, compliance | Cross-region distributed system design |
 | **Headlamp** | K8s observability deployed org-wide | Eliminated a class of support requests — devs self-serve |
+| **Marqet** 🔨 | Self-hosted eCommerce analytics — Go API, async workers, scrapers, Next.js | Dual-DB (Postgres OLTP + ClickHouse OLAP), Redis queue, K8s deploy |
 | **Billdar** 🔨 | Full-stack cost intelligence platform (Go+React+ClickHouse) | System design + full-stack engineering |
 | **GPUC** 🔨 | Unified GPU provisioning API — concurrent multi-cloud fetching | Go, REST API, distributed provider abstraction |
 
